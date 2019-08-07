@@ -1,0 +1,14 @@
+config:
+  server_config:
+    host: '40.114.104.251'
+    user: 'root'
+    password: 'Yusrilmeymey007'
+  src_db_config:
+    user: 'root'
+    password: '62569621144'
+    database: 'bizhunter'
+  dst_db_config:
+    user: 'root'
+    password: '62569621144'
+    database: 'bizhunter'
+  filename: 'backup_dbs.sql'
