@@ -12,6 +12,9 @@ jalur SSH
 - git clone https://github.com/yusriltakeuchi/SnakeFlash.git
 - pip3 install -r requirements.txt
 
+# How to Run 
+- python3 snakeflash.py
+
 # How to Config?
 - Open file config.yml
 - Edit with your credentials
