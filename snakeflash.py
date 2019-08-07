@@ -16,21 +16,6 @@ jalur SSH
 '''
 
 def parsingArg():
-    username = ""
-    password = ""
-
-    srcuser = ""
-    srcpw = ""
-    srcdb = ""
-
-    filename = ""
-
-    dstuser = ""
-    dstpw = ""
-    dstdb = ""
-
-    host = ""
-
     with open("config.yml") as stream:
         config = yaml.safe_load(stream)
 
